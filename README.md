@@ -6,7 +6,7 @@ A **Voice-Powered Multilingual Chatbot** that supports multiple languages, power
 
 ## 🚀 Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the Demo](demo-thumbnail.png)](WhatsApp%20Video%202025-03-26%20at%2023.34.22_d5e66121.mp4)
 
 ---
 
